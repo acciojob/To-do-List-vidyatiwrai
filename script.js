@@ -1,4 +1,3 @@
-//your code here
 
 document.addEventListener("DOMContentLoaded", () => {
   const newTodoInput = document.getElementById("newTodoInput");
@@ -21,3 +20,4 @@ document.addEventListener("DOMContentLoaded", () => {
       addTodoBtn.click(); // Simulate a click on the "Add todo" button when Enter key is pressed
     }
   });
+});
